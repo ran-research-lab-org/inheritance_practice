@@ -10,9 +10,6 @@ protected:
     std::string name;
     int id;
     std::string type; // "Hourly" or "Salaried"
-    double payPerHour;
-    double workedHours;
-    double yearlyPayment;
 
 // Methods
 public:

@@ -6,11 +6,4 @@ Employee::Employee(const std::string& name, int id, const std::string& type,
   // TODO: 
 }
 
-/* IMPLEMENT GETTERS:
- * GetName
- * GetId
- * GetType
- * GetPayPerHour
- * getWorkedHours
- * getYearlyPayment
- * */
+/* IMPLEMENT GETTERS*/
